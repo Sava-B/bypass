@@ -1,0 +1,23 @@
+{
+  "name": "bypass",
+  "version": "1.0.0",
+  "description": "This is an app that bypasses paywalls in a website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sava-B/bypass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sava-B/bypass/issues"
+  },
+  "homepage": "https://github.com/Sava-B/bypass#readme",
+  "dependencies": {
+    "axios": "^1.2.0"
+  }
+}
